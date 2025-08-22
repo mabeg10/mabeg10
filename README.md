@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy una Desarrolladora Full Stack con una sólida especialización en HTML, CSS, JavaScript y Python. Mi formación previa en Educomunicación, arte y cultura me permite aportar una perspectiva única a mis proyectos.<br><br>🎨 Pasión por la combinación de tecnología y cultura: Me encanta integrar la tecnología con mi experiencia en fomento cultural, artes gráficas y redes sociales. Este enfoque me permite crear y optimizar sitios web interactivos que no solo son funcionales, sino también estéticamente agradables y culturalmente enriquecedores.
+👋 ¡Hola! Soy una Diseñadora y Desarrolladora Junior con una sólida especialización en HTML, CSS, JavaScript y Python. Mi formación previa en Educomunicación, arte y cultura me permite aportar una perspectiva única a mis proyectos.<br><br>🎨 Pasión por la combinación de tecnología y cultura: Me encanta integrar la tecnología con mi experiencia en fomento cultural, artes gráficas y redes sociales. Este enfoque me permite crear y optimizar sitios web interactivos que no solo son funcionales, sino también estéticamente agradables y culturalmente enriquecedores.
 
 
 ## 🌐 Socials:
